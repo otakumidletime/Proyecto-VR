@@ -1,2 +1,6 @@
-# Proyecto-VR
-En la UPSRJ, el equipo formado por muñeloco, leopa6, juanelo y jano desarrolla un videojuego de realidad virtual en Unity que integra un chaleco háptico especial, permitiendo al usuario experimentar estímulos físicos reales y una experiencia inmersiva que combina tecnología, interacción sensorial y entorno virtual.
+# Introducción
+En la Universidad Politécnica de Santa Rosa Jáuregui (UPSRJ), la innovación tecnológica y el desarrollo de nuevas experiencias digitales forman parte esencial de la formación académica. En este contexto, el equipo conformado por muñeloco, leopa6, juanelo y jano desarrolla un proyecto enfocado en la creación de un videojuego en realidad virtual (VR) utilizando el motor gráfico Unity, con un enfoque en la inmersión sensorial y la interacción física del usuario.
+
+El objetivo principal del proyecto es diseñar una experiencia VR altamente inmersiva, donde el usuario no solo interactúe visual y auditivamente con el entorno virtual, sino que también experimente estímulos físicos reales mediante un chaleco especial de retroalimentación háptica. Este dispositivo permite transmitir sensaciones corporales sincronizadas con los eventos del videojuego, fortaleciendo la percepción de presencia dentro del mundo virtual.
+
+A través de la integración de software, hardware y diseño de experiencias inmersivas, este proyecto busca explorar nuevas formas de interacción humano-computadora, demostrando el potencial de la realidad virtual como una herramienta innovadora en el desarrollo tecnológico, educativo y experimental, abriendo camino a futuras aplicaciones en áreas como el entretenimiento, la simulación y el entrenamiento especializado.
