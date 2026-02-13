@@ -1,15 +1,15 @@
-# Proyecto VR  
+# Entorno virtual para terapia fisica 
 ## Universidad Politécnica de Santa Rosa Jáuregui  
 ### Ingeniería en Software  
 
-**Equipo:** Jóvenes Pollas  
-- Leopa8  
-- Juanelo  
-- Jano  
-- Muñeloco  
+**Equipo:** The new gen 
+- Ventura Torres Leonardo
+- Medellin Molina Juan Jose 
+- Aguilar Aguilar Rogelio Alejandro
+- Orduño Velazquez Hector Hazael
 
 **Fecha:** 31/01/2026  
-**Docente:** Bertha
+**Docente Ecargado:** Bertha Aguilar 
 
 **Link:** [[https://drive.google.com/file/d/1_kiqbl3NTH9GJi-1VDDKs5V5q_U9HPLT/view?usp=drive_link](https://drive.google.com/file/d/1_kiqbl3NTH9GJi-1VDDKs5V5q_U9HPLT/view?usp=drive_link](https://drive.google.com/file/d/1_kiqbl3NTH9GJi-1VDDKs5V5q_U9HPLT/view?usp=sharing))
 
@@ -17,11 +17,11 @@
 
 ## Introducción
 
-En la Universidad Politécnica de Santa Rosa Jáuregui (UPSRJ), la innovación tecnológica y el desarrollo de nuevas experiencias digitales forman parte esencial de la formación académica. En este contexto, el equipo conformado por Muñeloco, Leopa8, Juanelo y Jano desarrolla un proyecto enfocado en la creación de un videojuego en realidad virtual (VR) utilizando el motor gráfico Unity, con un enfoque en la inmersión sensorial y la interacción física del usuario.
+En la Universidad Politécnica de Santa Rosa Jáuregui (UPSRJ), la innovación y desarollo tecnologico son una mu parte importante de la identidad de la institucion. En este contexto, el equipo conformado por Hector, Leonardo, Juan Jose y Alejandro desarrolla un proyecto enfocado en la creación de un videojuego en realidad virtual (VR) utilizando el motor gráfico Unity, con un enfoque en la inmersión sensorial y la interacción física del usuario.
 
 El objetivo principal del proyecto es diseñar una experiencia VR altamente inmersiva, donde el usuario no solo interactúe visual y auditivamente con el entorno virtual, sino que también experimente estímulos físicos reales mediante un chaleco especial de retroalimentación háptica. Este dispositivo permite transmitir sensaciones corporales sincronizadas con los eventos del videojuego, fortaleciendo la percepción de presencia dentro del mundo virtual.
 
-A través de la integración de software, hardware y diseño de experiencias inmersivas, este proyecto busca explorar nuevas formas de interacción humano-computadora, demostrando el potencial de la realidad virtual como una herramienta innovadora en el desarrollo tecnológico, educativo y experimental, abriendo camino a futuras aplicaciones en áreas como el entretenimiento, la simulación y el entrenamiento especializado.
+A través de la integración de software, hardware y diseño de experiencias inmersivas, este proyecto busca explorar nuevas formas de interacción con el entorno virtual, demostrando el potencial de esta misma como una herramienta innovadora en el desarrollo tecnológico, educativo y experimental, abriendo camino a futuras aplicaciones en áreas como el entretenimiento, la simulación y el entrenamiento especializado.
 
 **Alcance:** (Por definir)
 
@@ -62,9 +62,9 @@ Desarrollar un videojuego de realidad virtual (VR) en Unity, integrado con un ch
 
 ## Descripción del proyecto
 
-- Tipo de videojuego: (Por definir)  
-- Plataforma: (Por definir)  
-- Público objetivo: (Por definir)  
+- Tipo de videojuego: interactivo (vr)
+- Plataforma: Steam y Meta
+- Público objetivo: Personas con discapasidad motris  
 - Tipo de experiencia:  
   - Inmersiva  
   - Educativa  
