@@ -9,7 +9,7 @@
 - Orduño Velazquez Hector Hazael
 
 **Fecha:** 31/01/2026  
-**Docente Ecargado:** Bertha Aguilar 
+**Docente Ecargado:** Bertha Hernandez Aguilar 
 
 **Link:** [[https://drive.google.com/file/d/1_kiqbl3NTH9GJi-1VDDKs5V5q_U9HPLT/view?usp=drive_link](https://drive.google.com/file/d/1_kiqbl3NTH9GJi-1VDDKs5V5q_U9HPLT/view?usp=drive_link](https://drive.google.com/file/d/1_kiqbl3NTH9GJi-1VDDKs5V5q_U9HPLT/view?usp=sharing))
 
