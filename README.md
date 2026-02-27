@@ -4,7 +4,7 @@
 
 **Equipo:** The new gen 
 - Ventura Torres Leonardo
-- Medellin Molina Juan Jose 
+- Medellin Molina Juan 
 - Aguilar Aguilar Rogelio Alejandro
 - Orduño Velazquez Hector Hazael
 
