@@ -11,7 +11,7 @@
 **Fecha:** 31/01/2026  
 **Docente Ecargado:** Bertha Hernandez Aguilar 
 
-**Link:**https://1drv.ms/u/c/6c43cc73d4844b7e/IQBlGO7fv1fzSogCCXU722odAcLWjKwjw6zEpS2aXRGqSVo?e=SQDV6w
+**Link:** https://1drv.ms/u/c/6c43cc73d4844b7e/IQBlGO7fv1fzSogCCXU722odAcLWjKwjw6zEpS2aXRGqSVo?e=SQDV6w
 ---
 
 ## Introducción
